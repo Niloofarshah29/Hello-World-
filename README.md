@@ -1,3 +1,3 @@
 # Hello-World-
-rep repo
+repo repo
 print("Hello, World!")
